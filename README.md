@@ -58,7 +58,8 @@ public class PlayerController : MonoBehaviour
 ```
 ## Output:
 
-![alt text](img.png)
+<img width="1369" height="783" alt="Screenshot 2025-11-19 085817" src="https://github.com/user-attachments/assets/24dceea8-4dad-4e84-bc60-7217d266f4c6" />
+
 
 
 ## Result:
